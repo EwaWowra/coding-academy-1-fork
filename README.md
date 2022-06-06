@@ -1,3 +1,4 @@
+
 # Zadanie 1:
 1. Stwórz puste repozytorium o nazwie "coding-academy". Repozytorium musi być publiczne, link do repo podajemy w rozwiązaniu.
 ---
@@ -33,4 +34,5 @@
 
 ---
 
-#tutaj wstaw swoje imię:Ewa
+#tutaj wstaw swoje imię:
+
